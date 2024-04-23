@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306
-    password: Dkik23*$Z(
+    password: Dkik203
     username : root
   jpa:
     database-platform : org.hibernate.dialect.MySQLDialect
